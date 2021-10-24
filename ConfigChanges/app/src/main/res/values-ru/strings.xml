@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Изменение конфигурации</string>
+    <string name="lang">Язык</string>
+    <string name="toast_string">Строчка на русском!</string>
+</resources>

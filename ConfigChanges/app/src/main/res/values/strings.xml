@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConfigChanges</string>
+    <string name="lang">Language</string>
+    <string name="toast_string">String in English!</string>
+</resources>
